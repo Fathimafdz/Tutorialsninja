@@ -1,0 +1,240 @@
+2025-07-13 20:13:31 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\USER\eclipse-workspace\Automation Programs\Tutorialsninja\master.xml
+
+2025-07-13 20:13:40 INFO  TC002_LoginTest:12 - -------- Starting TC002_LoginTest --------
+2025-07-13 20:13:40 INFO  TC002_LoginTest:17 - Clicked on My Account
+2025-07-13 20:13:41 INFO  TC002_LoginTest:20 - Clicked on Login
+2025-07-13 20:13:41 INFO  TC002_LoginTest:25 - Entered login credentials
+2025-07-13 20:13:41 INFO  TC002_LoginTest:28 - Clicked on Login button
+2025-07-13 20:13:42 INFO  TC002_LoginTest:32 - Login Test Passed - My Account page found
+2025-07-13 20:13:42 INFO  TC002_LoginTest:41 - -------- Finished TC002_LoginTest --------
+2025-07-13 21:01:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-13 21:01:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2025-07-13 21:01:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:01:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:01:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:01:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:01:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:01:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:01:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 13 ms.
+2025-07-13 21:01:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 69 ms.
+2025-07-13 21:01:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:01:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:01:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:01:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:01:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:01:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:01:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:01:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:01:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:01:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\USER\AppData\Local\Temp\testng-eclipse--392576312\testng-customsuite.xml
+
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 44 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 30 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 34 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:01:28 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\USER\AppData\Local\Temp\testng-eclipse--447595405\testng-customsuite.xml
+
+2025-07-13 21:01:28 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 21 ms.
+2025-07-13 21:01:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:01:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-07-13 21:01:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:01:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:01:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:01:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:01:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:01:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:01:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 12 ms.
+2025-07-13 21:01:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 342 ms.
+2025-07-13 21:01:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:01:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:01:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:01:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:01:29 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@62577d6: 1071 ms
+2025-07-13 21:01:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:01:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:01:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:01:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:01:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:01:29 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:01:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:01:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:01:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:01:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:01:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:01:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:01:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:01:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:01:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:01:30 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:01:30 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@3fcdcf: 70 ms
+2025-07-13 21:01:30 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@5987e932: 47 ms
+2025-07-13 21:01:30 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1af1347d: 70 ms
+2025-07-13 21:01:30 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\USER\AppData\Local\Temp\testng-eclipse--367182885\testng-customsuite.xml
+
+2025-07-13 21:01:30 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@76b0ae1b: 17 ms
+2025-07-13 21:01:30 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@130a0f66: 0 ms
+2025-07-13 21:01:30 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 15 ms.
+2025-07-13 21:01:30 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@62577d6: 328 ms
+2025-07-13 21:01:30 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@3fcdcf: 87 ms
+2025-07-13 21:01:30 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@5987e932: 58 ms
+2025-07-13 21:01:30 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1af1347d: 38 ms
+2025-07-13 21:01:30 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@130a0f66: 51 ms
+2025-07-13 21:01:30 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4c432866: 0 ms
+2025-07-13 21:01:30 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@62577d6: 177 ms
+2025-07-13 21:01:30 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@3fcdcf: 88 ms
+2025-07-13 21:01:31 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@5987e932: 43 ms
+2025-07-13 21:01:31 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1af1347d: 33 ms
+2025-07-13 21:01:31 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@76b0ae1b: 28 ms
+2025-07-13 21:01:31 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@130a0f66: 0 ms
+2025-07-13 21:03:20 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\USER\eclipse-workspace\Automation Programs\Tutorialsninja\master.xml
+
+2025-07-13 21:03:34 INFO  TC001_AccountRegistration:12 - -------- Starting TC001_AccountRegistration --------
+2025-07-13 21:03:35 INFO  TC001_AccountRegistration:16 - Clicked on My Account
+2025-07-13 21:03:35 INFO  TC001_AccountRegistration:19 - Clicked on Register
+2025-07-13 21:03:35 INFO  TC001_AccountRegistration:22 - Filling registration form...
+2025-07-13 21:03:37 INFO  TC001_AccountRegistration:34 - Clicked on Continue to submit registration
+2025-07-13 21:03:37 INFO  TC001_AccountRegistration:35 - -------- Finished TC001_AccountRegistration --------
+2025-07-13 21:06:31 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\USER\eclipse-workspace\Automation Programs\Tutorialsninja\grouping.xml
+
+2025-07-13 21:15:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-07-13 21:15:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-07-13 21:15:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:15:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:15:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:15:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:15:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:15:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:15:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 11 ms.
+2025-07-13 21:15:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 18 ms.
+2025-07-13 21:15:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:15:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:15:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:15:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:15:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:15:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:15:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:15:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:15:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:15:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:15:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:15:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:15:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:15:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:15:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-13 21:15:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:15:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:15:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:15:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-13 21:15:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-13 21:15:07 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\USER\AppData\Local\Temp\testng-eclipse-594312839\testng-customsuite.xml
+
+2025-07-13 21:15:07 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+2025-07-13 21:15:08 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@acb0951: 200 ms
+2025-07-13 21:15:08 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@319988b0: 31 ms
+2025-07-13 21:15:08 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@4c168660: 17 ms
+2025-07-13 21:15:08 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@55795845: 14 ms
+2025-07-13 21:15:08 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6175619b: 12 ms
+2025-07-13 21:15:08 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2f058b8a: 0 ms
+2025-07-13 21:15:43 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\USER\eclipse-workspace\Automation Programs\Tutorialsninja\grouping.xml
+
+2025-07-13 21:18:30 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\USER\eclipse-workspace\Automation Programs\Tutorialsninja\grouping.xml
+
+2025-07-13 21:19:48 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\USER\eclipse-workspace\Automation Programs\Tutorialsninja\grouping.xml
+
+2025-07-13 21:23:07 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\USER\eclipse-workspace\Automation Programs\Tutorialsninja\grouping.xml
+
+2025-07-13 21:24:27 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\USER\eclipse-workspace\Automation Programs\Tutorialsninja\grouping.xml
+
+2025-07-13 21:26:54 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\USER\eclipse-workspace\Automation Programs\Tutorialsninja\grouping.xml
+
+2025-07-13 21:29:34 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\USER\eclipse-workspace\Automation Programs\Tutorialsninja\testng.xml
+
+2025-07-13 21:29:47 INFO  TC001_AccountRegistration:13 - -------- Starting TC001_AccountRegistration --------
+2025-07-13 21:29:48 INFO  TC001_AccountRegistration:18 - Clicked on My Account
+2025-07-13 21:29:50 INFO  TC001_AccountRegistration:21 - Clicked on Register
+2025-07-13 21:29:51 INFO  TC001_AccountRegistration:24 - Filling registration form...
+2025-07-13 21:29:53 INFO  TC001_AccountRegistration:35 - Clicked on Continue to submit registration
+2025-07-13 21:29:53 INFO  TC001_AccountRegistration:39 - Confirmation Message Displayed: true
+2025-07-13 21:29:53 INFO  TC001_AccountRegistration:47 - -------- Finished TC001_AccountRegistration --------
+2025-07-13 21:30:03 INFO  TC002_LoginTest:13 - -------- Starting TC002_LoginTest --------
+2025-07-13 21:30:03 INFO  TC002_LoginTest:18 - Clicked on My Account
+2025-07-13 21:30:05 INFO  TC002_LoginTest:21 - Clicked on Login
+2025-07-13 21:30:05 INFO  TC002_LoginTest:26 - Entered login credentials
+2025-07-13 21:30:11 INFO  TC002_LoginTest:29 - Clicked on Login button
+2025-07-13 21:30:12 INFO  TC002_LoginTest:37 - Login Test Passed - My Account page found
+2025-07-13 21:30:12 INFO  TC002_LoginTest:44 - -------- Finished TC002_LoginTest --------
+2025-07-13 21:34:03 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\USER\eclipse-workspace\Automation Programs\Tutorialsninja\grouping.xml
+
+2025-07-13 23:20:28 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\USER\eclipse-workspace\Automation Programs\Tutorialsninja\master.xml
+
+2025-07-13 23:20:41 INFO  TC001_AccountRegistration:13 - -------- Starting TC001_AccountRegistration --------
+2025-07-13 23:20:41 INFO  TC001_AccountRegistration:18 - Clicked on My Account
+2025-07-13 23:20:42 INFO  TC001_AccountRegistration:21 - Clicked on Register
+2025-07-13 23:20:42 INFO  TC001_AccountRegistration:24 - Filling registration form...
+2025-07-13 23:20:44 INFO  TC001_AccountRegistration:35 - Clicked on Continue to submit registration
+2025-07-13 23:20:44 INFO  TC001_AccountRegistration:39 - Confirmation Message Displayed: true
+2025-07-13 23:20:44 INFO  TC001_AccountRegistration:47 - -------- Finished TC001_AccountRegistration --------
+2025-07-13 23:22:31 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\USER\eclipse-workspace\Automation Programs\Tutorialsninja\master.xml
+
+2025-07-13 23:22:42 INFO  TC002_LoginTest:13 - -------- Starting TC002_LoginTest --------
+2025-07-13 23:22:42 INFO  TC002_LoginTest:18 - Clicked on My Account
+2025-07-13 23:22:42 INFO  TC002_LoginTest:21 - Clicked on Login
+2025-07-13 23:22:43 INFO  TC002_LoginTest:26 - Entered login credentials
+2025-07-13 23:22:44 INFO  TC002_LoginTest:29 - Clicked on Login button
+2025-07-13 23:22:44 INFO  TC002_LoginTest:37 - Login Test Passed - My Account page found
+2025-07-13 23:22:44 INFO  TC002_LoginTest:44 - -------- Finished TC002_LoginTest --------
